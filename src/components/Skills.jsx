@@ -65,7 +65,7 @@ const Skills = () => {
               </div>
 
               {/* Skill pills */}
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-3">
                 {skills[key].map((skill) => (
                   <span
                     key={skill}
