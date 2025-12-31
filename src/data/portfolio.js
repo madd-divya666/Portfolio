@@ -91,7 +91,7 @@ export const portfolioData = {
     {
       role: "Software Engineer Intern",
       company: "Gamux",
-      duration: "June 2025 – Nov 2025",
+      duration: "June 2025 – Dec 2025",
       location: "Remote",
       details: [
         "Developed and maintained RESTful backend APIs using Node.js and Express.js for core application features.",
